@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm tharusha dilhara jayadeera</h1>
 <h3 align="center">A passionate full stack developer & student from srilnaka</h3>
-
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="430"/>
 - 🌱 I’m currently learning **advanced laravel and vue**
 
 - 📫 How to reach me **edu.tharusha@gmail.com**
