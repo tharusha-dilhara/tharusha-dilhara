@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm tharusha dilhara jayadeera</h1>
+
 <h3 align="center">A passionate Software engineering from sri lanka</h3>
 
 - 📝 I regularly write articles on [https://medium.com/@edu.tharusha](https://medium.com/@edu.tharusha)
