@@ -10,6 +10,5 @@
 <a href="https://medium.com/@edu.tharusha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@edu.tharusha" height="30" width="40" /></a>
 </p>
 
-<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharusha-dilhara&show_icons=true&locale=en&layout=compact" alt="tharusha-dilhara" /></p>
